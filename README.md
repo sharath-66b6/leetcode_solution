@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharath-66b6/leetcode_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
