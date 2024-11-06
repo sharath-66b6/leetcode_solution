@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/sharath-66b6/leetcode_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharath-66b6/leetcode_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
