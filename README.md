@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/sharath-66b6/leetcode_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sharath-66b6/leetcode_solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sharath-66b6/leetcode_solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharath-66b6/leetcode_solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
