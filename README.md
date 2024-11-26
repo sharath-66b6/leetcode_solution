@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
+| [3189-find-champion-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
