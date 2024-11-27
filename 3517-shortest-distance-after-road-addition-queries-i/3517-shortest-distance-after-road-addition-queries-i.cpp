@@ -1,44 +1,30 @@
 class Solution {
-public:
-    int sortest_path(vector<vector<int>> adj,int n)
-    {
-        vector<bool> visited(n+1, false);
-        queue<pair<int,int>> q;
-        q.push({0,0});
-        while(!q.empty())
-        {
-            
-            int curr=q.front().first;
-            int len=q.front().second;
-            
-            if(curr==n)
-                return len;
-            q.pop();
-
-            if (visited[curr]) continue;
-            visited[curr] = true;
-
-            for(int i:adj[curr])
-            {
-                if(!visited[i])
-                    q.push({i,len+1});
-            }
+    void dfs(vector<vector<int>>& tree, int c, vector<int>& dp) {
+        int d=dp[c]+1;
+        for (int x : tree[c]) {
+            if (dp[x]<=d) continue;
+            dp[x]=d;
+            dfs(tree,x,dp);
         }
-        return n;
     }
+public:
     vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>>& queries) {
-        vector<int> res;
-        vector<vector<int>> adj(n);
-        for(int i=0;i<n;i++)
-        {
-            adj[i].push_back(i+1);
+        vector<int> dp(n);
+        for (int i=0; i<n; ++i) dp[i]=n-1-i;
+        vector<vector<int>> tree(n);
+        for (int i=0; i+1<n; ++i)
+            tree[i+1].push_back(i);
+        int m=int(queries.size());
+        vector<int> res(m);
+        int i=0;
+        for (auto& q : queries) {
+            int a=q[0], b=q[1];
+            tree[b].push_back(a);
+            dp[a]=min(dp[a],dp[b]+1);
+            dfs(tree,a,dp);
+            res[i]=dp[0];
+            ++i;
         }
-
-        for(auto x:queries){
-            adj[x[0]].push_back(x[1]);
-            res.push_back(sortest_path(adj,n-1));
-        }
-
         return res;
     }
 };
