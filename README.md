@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sharath-66b6/leetcode_solution/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharath-66b6/leetcode_solution/tree/master/2554-minimum-total-distance-traveled) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1972-rotating-the-box](https://github.com/sharath-66b6/leetcode_solution/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -218,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sharath-66b6/leetcode_solution/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
