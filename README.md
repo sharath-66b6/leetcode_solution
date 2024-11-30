@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharath-66b6/leetcode_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2201-valid-arrangement-of-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
+| [2201-valid-arrangement-of-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3189-find-champion-ii) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
