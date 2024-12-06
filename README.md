@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sharath-66b6/leetcode_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Tree
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sharath-66b6/leetcode_solution/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharath-66b6/leetcode_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/3291-find-if-array-can-be-sorted) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/sharath-66b6/leetcode_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2716-prime-subtraction-operation) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sharath-66b6/leetcode_solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sharath-66b6/leetcode_solution/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/2089-maximum-matrix-sum) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2716-prime-subtraction-operation) |
 ## String Matching
 |  |
