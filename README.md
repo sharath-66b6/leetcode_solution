@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharath-66b6/leetcode_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2677-cousins-in-binary-tree-ii) |
