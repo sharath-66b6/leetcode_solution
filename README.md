@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharath-66b6/leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sharath-66b6/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [0812-rotate-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharath-66b6/leetcode_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1524-string-matching-in-an-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/sharath-66b6/leetcode_solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sharath-66b6/leetcode_solution/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
