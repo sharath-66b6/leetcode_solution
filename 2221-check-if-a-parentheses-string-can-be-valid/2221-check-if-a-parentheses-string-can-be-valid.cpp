@@ -1,40 +1,31 @@
-#include <vector>
-#include <stack>
-#include <string>
-using namespace std;
-
 class Solution {
 public:
     bool canBeValid(string s, string locked) {
-        stack<int> stack_locked;
-        stack<int> stack_unlocked;
-
-        for (int i = 0; i < s.size(); i++) {
-            if (locked[i] == '0') {
-                stack_unlocked.push(i);
-            } else if (s[i] == '(') {
-                stack_locked.push(i);
-            } else {
-                if (!stack_locked.empty()) {
-                    stack_locked.pop();
-                } else if (!stack_unlocked.empty()) {
-                    stack_unlocked.pop();
-                } else {
+        stack<int> l,ul;
+        for(int i=0;i<s.size();i++)
+        {
+            if(locked[i] == '0')
+                ul.push(i);
+            else if(s[i] == '(')
+                l.push(i);
+            else
+            {
+                if(!l.empty())
+                    l.pop();
+                else if(!ul.empty())
+                    ul.pop();
+                else
                     return false;
-                }
             }
         }
 
-        while (!stack_locked.empty() && !stack_unlocked.empty() &&
-               stack_locked.top() < stack_unlocked.top()) {
-            stack_locked.pop();
-            stack_unlocked.pop();
+        while(!l.empty() && !ul.empty() && l.top() < ul.top())
+        {
+            l.pop();
+            ul.pop();
         }
-
-        if (!stack_locked.empty()) {
+        if(!l.empty() || ul.size()%2 != 0)
             return false;
-        }
-
-        return stack_unlocked.size() % 2 == 0;
+        return true;
     }
 };
