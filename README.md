@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
 | [0728-self-dividing-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/sharath-66b6/leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
