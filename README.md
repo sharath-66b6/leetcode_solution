@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/sharath-66b6/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/sharath-66b6/leetcode_solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0812-rotate-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
 | [1940-maximum-xor-for-each-query](https://github.com/sharath-66b6/leetcode_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
 | [0728-self-dividing-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/sharath-66b6/leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
 | [2232-adding-spaces-to-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sharath-66b6/leetcode_solution/tree/master/2692-take-gifts-from-the-richest-pile) |
