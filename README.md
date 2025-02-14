@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sharath-66b6/leetcode_solution/tree/master/0069-sqrtx) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharath-66b6/leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sharath-66b6/leetcode_solution/tree/master/0069-sqrtx) |
 | [0728-self-dividing-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/sharath-66b6/leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
