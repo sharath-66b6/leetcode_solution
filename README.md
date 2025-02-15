@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/sharath-66b6/leetcode_solution/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sharath-66b6/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/sharath-66b6/leetcode_solution/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/sharath-66b6/leetcode_solution/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
