@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sharath-66b6/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sharath-66b6/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sharath-66b6/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sharath-66b6/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/sharath-66b6/leetcode_solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/sharath-66b6/leetcode_solution/tree/master/0820-find-eventual-safe-states) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sharath-66b6/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sharath-66b6/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -536,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sharath-66b6/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0060-permutation-sequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sharath-66b6/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
