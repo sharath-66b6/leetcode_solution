@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sharath-66b6/leetcode_solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sharath-66b6/leetcode_solution/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sharath-66b6/leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sharath-66b6/leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sharath-66b6/leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sharath-66b6/leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/sharath-66b6/leetcode_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/sharath-66b6/leetcode_solution/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/sharath-66b6/leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sharath-66b6/leetcode_solution/tree/master/2179-most-beautiful-item-for-each-query) |
