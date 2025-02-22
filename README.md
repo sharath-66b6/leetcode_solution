@@ -564,9 +564,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sharath-66b6/leetcode_solution/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0060-permutation-sequence) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sharath-66b6/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
