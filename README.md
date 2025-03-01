@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharath-66b6/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/sharath-66b6/leetcode_solution/tree/master/0146-lru-cache) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sharath-66b6/leetcode_solution/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2434-design-a-number-container-system) |
@@ -604,8 +606,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/sharath-66b6/leetcode_solution/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sharath-66b6/leetcode_solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
