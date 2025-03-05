@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sharath-66b6/leetcode_solution/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sharath-66b6/leetcode_solution/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sharath-66b6/leetcode_solution/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/sharath-66b6/leetcode_solution/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sharath-66b6/leetcode_solution/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0516-longest-palindromic-subsequence) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/sharath-66b6/leetcode_solution/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharath-66b6/leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
