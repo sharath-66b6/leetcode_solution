@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sharath-66b6/leetcode_solution/tree/master/0010-regular-expression-matching) |
+| [0062-unique-paths](https://github.com/sharath-66b6/leetcode_solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sharath-66b6/leetcode_solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sharath-66b6/leetcode_solution/tree/master/0091-decode-ways) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/sharath-66b6/leetcode_solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharath-66b6/leetcode_solution/tree/master/0069-sqrtx) |
@@ -654,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sharath-66b6/leetcode_solution/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sharath-66b6/leetcode_solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
