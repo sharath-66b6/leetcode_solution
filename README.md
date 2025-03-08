@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sharath-66b6/leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/sharath-66b6/leetcode_solution/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
