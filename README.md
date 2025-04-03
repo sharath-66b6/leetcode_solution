@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sharath-66b6/leetcode_solution/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sharath-66b6/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sharath-66b6/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sharath-66b6/leetcode_solution/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/sharath-66b6/leetcode_solution/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sharath-66b6/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sharath-66b6/leetcode_solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sharath-66b6/leetcode_solution/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/sharath-66b6/leetcode_solution/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/sharath-66b6/leetcode_solution/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/sharath-66b6/leetcode_solution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
