@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2649-count-total-number-of-colored-cells](https://github.com/sharath-66b6/leetcode_solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sharath-66b6/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -767,4 +768,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
