@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/sharath-66b6/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sharath-66b6/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/sharath-66b6/leetcode_solution/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sharath-66b6/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sharath-66b6/leetcode_solution/tree/master/0072-edit-distance) |
