@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1447-jump-game-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharath-66b6/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharath-66b6/leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/sharath-66b6/leetcode_solution/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/sharath-66b6/leetcode_solution/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/sharath-66b6/leetcode_solution/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/sharath-66b6/leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sharath-66b6/leetcode_solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
