@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3548-find-the-count-of-good-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sharath-66b6/leetcode_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/sharath-66b6/leetcode_solution/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Tree
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/sharath-66b6/leetcode_solution/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sharath-66b6/leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/sharath-66b6/leetcode_solution/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Backtracking
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3643-zero-array-transformation-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sharath-66b6/leetcode_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sharath-66b6/leetcode_solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/sharath-66b6/leetcode_solution/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Trie
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sharath-66b6/leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/sharath-66b6/leetcode_solution/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/sharath-66b6/leetcode_solution/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Ordered Set
 |  |
 | ------- |
