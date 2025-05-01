@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharath-66b6/leetcode_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharath-66b6/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1524-string-matching-in-an-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharath-66b6/leetcode_solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sharath-66b6/leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
