@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/sharath-66b6/leetcode_solution/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0812-rotate-string) |
+| [0886-score-of-parentheses](https://github.com/sharath-66b6/leetcode_solution/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/sharath-66b6/leetcode_solution/tree/master/1160-letter-tile-possibilities) |
@@ -344,7 +345,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sharath-66b6/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
-| [3113-beautiful-towers-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3113-beautiful-towers-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sharath-66b6/leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -662,11 +662,11 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
+| [0886-score-of-parentheses](https://github.com/sharath-66b6/leetcode_solution/tree/master/0886-score-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharath-66b6/leetcode_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sharath-66b6/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
-| [3113-beautiful-towers-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3113-beautiful-towers-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sharath-66b6/leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/sharath-66b6/leetcode_solution/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -676,7 +676,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sharath-66b6/leetcode_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sharath-66b6/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
-| [3113-beautiful-towers-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3113-beautiful-towers-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sharath-66b6/leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Queue
 |  |
