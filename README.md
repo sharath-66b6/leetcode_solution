@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/sharath-66b6/leetcode_solution/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/sharath-66b6/leetcode_solution/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1447-jump-game-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1447-jump-game-iv) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/sharath-66b6/leetcode_solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sharath-66b6/leetcode_solution/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sharath-66b6/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharath-66b6/leetcode_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/sharath-66b6/leetcode_solution/tree/master/1364-tuple-with-same-product) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/sharath-66b6/leetcode_solution/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/sharath-66b6/leetcode_solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
