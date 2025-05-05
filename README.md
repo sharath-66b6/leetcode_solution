@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0806-domino-and-tromino-tiling](https://github.com/sharath-66b6/leetcode_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/sharath-66b6/leetcode_solution/tree/master/1025-minimum-cost-for-tickets) |
