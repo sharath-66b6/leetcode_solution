@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/sharath-66b6/leetcode_solution/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
+| [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharath-66b6/leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/sharath-66b6/leetcode_solution/tree/master/2164-two-best-non-overlapping-events) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/sharath-66b6/leetcode_solution/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sharath-66b6/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharath-66b6/leetcode_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/sharath-66b6/leetcode_solution/tree/master/1364-tuple-with-same-product) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/sharath-66b6/leetcode_solution/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharath-66b6/leetcode_solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/sharath-66b6/leetcode_solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/sharath-66b6/leetcode_solution/tree/master/0820-find-eventual-safe-states) |
+| [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sharath-66b6/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/sharath-66b6/leetcode_solution/tree/master/0820-find-eventual-safe-states) |
+| [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
 | [1558-course-schedule-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sharath-66b6/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharath-66b6/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -805,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/sharath-66b6/leetcode_solution/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/sharath-66b6/leetcode_solution/tree/master/0854-making-a-large-island) |
+| [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/sharath-66b6/leetcode_solution/tree/master/2793-count-the-number-of-complete-components) |
