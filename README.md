@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/sharath-66b6/leetcode_solution/tree/master/0139-word-break) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sharath-66b6/leetcode_solution/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sharath-66b6/leetcode_solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/0070-climbing-stairs) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0055-jump-game) |
 | [0768-partition-labels](https://github.com/sharath-66b6/leetcode_solution/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
