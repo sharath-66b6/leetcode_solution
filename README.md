@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sharath-66b6/leetcode_solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sharath-66b6/leetcode_solution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/sharath-66b6/leetcode_solution/tree/master/3447-clear-digits) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sharath-66b6/leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3643-zero-array-transformation-ii) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sharath-66b6/leetcode_solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sharath-66b6/leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sharath-66b6/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sharath-66b6/leetcode_solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -806,10 +810,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Rolling Hash
 |  |
 | ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
 |  |
