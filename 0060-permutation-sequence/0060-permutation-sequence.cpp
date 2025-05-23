@@ -1,24 +1,31 @@
 class Solution {
- public:
-  string getPermutation(int n, int k) {
-    string ans;
-    vector<int> nums(n);
-    vector<int> fact(n + 1, 1);  // fact[i] := i!
+public:
+    vector<string> v;
 
-    iota(nums.begin(), nums.end(), 1);
-
-    for (int i = 2; i <= n; ++i)
-      fact[i] = fact[i - 1] * i;
-
-    --k;  // 0-indexed
-
-    for (int i = n - 1; i >= 0; --i) {
-      const int j = k / fact[i];
-      k %= fact[i];
-      ans += to_string(nums[j]);
-      nums.erase(nums.begin() + j);
+    int fact(int n){
+        if(n <= 1) return 1;
+        return n * fact(n - 1);
     }
 
-    return ans;
-  }
+    string solve(int n, int k){
+        if(n == 1){
+            return v[0];
+        }
+
+        int n_fact = fact(n - 1);
+        int index = k / n_fact;
+        string num = v[index];
+        v.erase(v.begin() + index);
+        k = k % n_fact;
+
+        return num + solve(n - 1, k);
+    }
+
+    string getPermutation(int n, int k) {
+        v.clear();
+        for(int i = 1; i <= n; i++){
+            v.push_back(to_string(i));
+        }
+        return solve(n, k - 1);
+    }
 };
