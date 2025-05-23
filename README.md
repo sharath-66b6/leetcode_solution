@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/sharath-66b6/leetcode_solution/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/sharath-66b6/leetcode_solution/tree/master/2793-count-the-number-of-complete-components) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sharath-66b6/leetcode_solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sharath-66b6/leetcode_solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/sharath-66b6/leetcode_solution/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2586-longest-square-streak-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/sharath-66b6/leetcode_solution/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sharath-66b6/leetcode_solution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/sharath-66b6/leetcode_solution/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sharath-66b6/leetcode_solution/tree/master/2685-first-completely-painted-row-or-column) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/sharath-66b6/leetcode_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/sharath-66b6/leetcode_solution/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sharath-66b6/leetcode_solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/sharath-66b6/leetcode_solution/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sharath-66b6/leetcode_solution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
