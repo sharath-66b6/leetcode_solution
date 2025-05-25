@@ -21,23 +21,20 @@ public:
 
 class Solution {
 public:
-    Node* clone(Node* node, unordered_map<Node*, Node*>& mp){
-        if(node == nullptr) return nullptr;
-
-        Node* newNode = new Node(node->val);
-        mp[node] = newNode;
-        for(auto n:node->neighbors){
-            if(mp[n]){
-                (newNode->neighbors).push_back(mp[n]);
-            }
-            else{
-                (newNode->neighbors).push_back(clone(n, mp));
-            }
-        }
-        return newNode;
-    }
+    map<Node*, Node*> mp;
     Node* cloneGraph(Node* node) {
-        unordered_map<Node*, Node*> mp;
-        return clone(node, mp);
+        if(node == nullptr)
+            return nullptr;
+        auto it = mp.find(node);
+        if(it != mp.cend())
+            return it->second;
+        
+        Node* n = new Node(node->val);
+        mp[node] = n;
+
+        for(auto ni : node->neighbors){
+            n->neighbors.push_back(cloneGraph(ni));
+        }
+        return n;
     }
 };
