@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/sharath-66b6/leetcode_solution/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1447-jump-game-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharath-66b6/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharath-66b6/leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharath-66b6/leetcode_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharath-66b6/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharath-66b6/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharath-66b6/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/sharath-66b6/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/sharath-66b6/leetcode_solution/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
