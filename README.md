@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2580-circular-sentence](https://github.com/sharath-66b6/leetcode_solution/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sharath-66b6/leetcode_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sharath-66b6/leetcode_solution/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sharath-66b6/leetcode_solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sharath-66b6/leetcode_solution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sharath-66b6/leetcode_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2833-count-zero-request-servers](https://github.com/sharath-66b6/leetcode_solution/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2868-continuous-subarrays) |
