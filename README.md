@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sharath-66b6/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sharath-66b6/leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sharath-66b6/leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sharath-66b6/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sharath-66b6/leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sharath-66b6/leetcode_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3427-special-array-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3643-zero-array-transformation-ii) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
