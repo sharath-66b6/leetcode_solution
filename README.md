@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/sharath-66b6/leetcode_solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/sharath-66b6/leetcode_solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sharath-66b6/leetcode_solution/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/sharath-66b6/leetcode_solution/tree/master/0945-snakes-and-ladders) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1447-jump-game-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1447-jump-game-iv) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/sharath-66b6/leetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/sharath-66b6/leetcode_solution/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/sharath-66b6/leetcode_solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sharath-66b6/leetcode_solution/tree/master/1063-best-sightseeing-pair) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/sharath-66b6/leetcode_solution/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/sharath-66b6/leetcode_solution/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
