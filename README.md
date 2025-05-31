@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sharath-66b6/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2487-optimal-partition-of-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/sharath-66b6/leetcode_solution/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/sharath-66b6/leetcode_solution/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sharath-66b6/leetcode_solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sharath-66b6/leetcode_solution/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/sharath-66b6/leetcode_solution/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2465-shifting-letters-ii) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/sharath-66b6/leetcode_solution/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sharath-66b6/leetcode_solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3141-minimum-size-subarray-in-infinite-array) |
