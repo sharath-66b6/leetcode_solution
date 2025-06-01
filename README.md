@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2998-count-symmetric-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sharath-66b6/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sharath-66b6/leetcode_solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/sharath-66b6/leetcode_solution/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3199-distribute-candies-among-children-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sharath-66b6/leetcode_solution/tree/master/3637-count-number-of-balanced-permutations) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/2998-count-symmetric-integers) |
+| [3199-distribute-candies-among-children-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 ## Merge Sort
