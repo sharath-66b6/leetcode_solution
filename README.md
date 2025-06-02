@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
+| [0135-candy](https://github.com/sharath-66b6/leetcode_solution/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/sharath-66b6/leetcode_solution/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/sharath-66b6/leetcode_solution/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/sharath-66b6/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/sharath-66b6/leetcode_solution/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
