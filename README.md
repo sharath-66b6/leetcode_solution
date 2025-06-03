@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0945-snakes-and-ladders](https://github.com/sharath-66b6/leetcode_solution/tree/master/0945-snakes-and-ladders) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sharath-66b6/leetcode_solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1447-jump-game-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1447-jump-game-iv) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1558-course-schedule-iv) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sharath-66b6/leetcode_solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sharath-66b6/leetcode_solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sharath-66b6/leetcode_solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1447-jump-game-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharath-66b6/leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/sharath-66b6/leetcode_solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/sharath-66b6/leetcode_solution/tree/master/0820-find-eventual-safe-states) |
 | [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sharath-66b6/leetcode_solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/sharath-66b6/leetcode_solution/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sharath-66b6/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
