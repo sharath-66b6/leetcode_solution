@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0868-push-dominoes) |
 | [0886-score-of-parentheses](https://github.com/sharath-66b6/leetcode_solution/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/sharath-66b6/leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/1170-shortest-common-supersequence) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/sharath-66b6/leetcode_solution/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/sharath-66b6/leetcode_solution/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
