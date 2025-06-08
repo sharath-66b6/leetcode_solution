@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sharath-66b6/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sharath-66b6/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/sharath-66b6/leetcode_solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sharath-66b6/leetcode_solution/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/sharath-66b6/leetcode_solution/tree/master/0945-snakes-and-ladders) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sharath-66b6/leetcode_solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sharath-66b6/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sharath-66b6/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
