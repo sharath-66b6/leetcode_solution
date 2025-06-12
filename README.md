@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sharath-66b6/leetcode_solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sharath-66b6/leetcode_solution/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Trie
 |  |
 | ------- |
