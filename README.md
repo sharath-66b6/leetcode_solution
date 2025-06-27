@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sharath-66b6/leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharath-66b6/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2232-adding-spaces-to-a-string) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
 |  |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sharath-66b6/leetcode_solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/2089-maximum-matrix-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sharath-66b6/leetcode_solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sharath-66b6/leetcode_solution/tree/master/2300-construct-string-with-repeat-limit) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1364-tuple-with-same-product](https://github.com/sharath-66b6/leetcode_solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sharath-66b6/leetcode_solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1001,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2998-count-symmetric-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3201-distribute-candies-among-children-ii) |
