@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/sharath-66b6/leetcode_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/sharath-66b6/leetcode_solution/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0211-design-add-and-search-words-data-structure](https://github.com/sharath-66b6/leetcode_solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
