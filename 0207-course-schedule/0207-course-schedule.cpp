@@ -1,40 +1,44 @@
 class Solution {
 public:
+    void dfs(int node, stack<int>& st, vector<int>& vis, map<int, vector<int>> adj){
+        vis[node]=1;
+        for(int n:adj[node]){
+            if(!vis[n]){
+                dfs(n,  st, vis, adj);
+            }
+            
+        }
+        st.push(node);
+    }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int n=numCourses;
-        vector<vector<int>> graph(n);
-        vector<int> nodes(n,0);
-
-        for (const auto& edge : prerequisites) {
-            int u = edge[0];
-            int v = edge[1];
-            graph[u].push_back(v);
+        map<int, vector<int>> adj;
+        for(auto e:prerequisites){
+            adj[e[0]].push_back(e[1]);
+        }
+        
+        vector<int> ind(numCourses, 0);
+        for(int i=0;i<numCourses;i++){
+            for(auto it:adj[i])
+                ind[it]++;
         }
 
-        for(int i=0;i<n;++i){
-            if (hascycle(graph, i, nodes)) {
-                return false;
+        queue<int> q;
+        for(int i=0;i<numCourses;i++){
+            if(ind[i] == 0){
+                q.push(i);
             }
         }
-
-        return true;
-    }
-
-private:
-        bool hascycle(const vector<vector<int>>& graph, int u, vector<int>& states)
-    {
-        if(states[u] == -1)
-            return true;
-        if(states[u] == 1)
-            return false;
-        
-        states[u]=-1;
-        for(int v:graph[u])
-        {
-            if(hascycle(graph, v, states))
-                return true;
+        vector<int> topo;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            topo.push_back(node);
+            for(int it:adj[node]){
+                ind[it]--;
+                if(ind[it]==0) q.push(it);
+            }
         }
-        states[u]=1;
+        if(topo.size() == numCourses) return true;
         return false;
     }
 };
