@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sharath-66b6/leetcode_solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sharath-66b6/leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sharath-66b6/leetcode_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sharath-66b6/leetcode_solution/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3643-zero-array-transformation-ii) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3314-most-frequent-prime](https://github.com/sharath-66b6/leetcode_solution/tree/master/3314-most-frequent-prime) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sharath-66b6/leetcode_solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sharath-66b6/leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sharath-66b6/leetcode_solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
 |  |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3201-distribute-candies-among-children-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3314-most-frequent-prime](https://github.com/sharath-66b6/leetcode_solution/tree/master/3314-most-frequent-prime) |
 | [3548-find-the-count-of-good-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
