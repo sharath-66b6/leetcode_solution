@@ -1,18 +1,15 @@
 class Solution {
 public:
     vector<string> removeSubfolders(vector<string>& folder) {
-        vector<string> v;
-        sort(folder.begin(),folder.end());
-        string x="";
-        for(string s:folder)
-        {
-            if(x.empty() || s.find(x+"/") != 0)
-            {
-                v.push_back(s);
-                x=s;
+        sort(folder.begin(), folder.end());
+        vector<string> res;
+        string prev = "";
+        for (const string& f : folder) {
+            if (prev.empty() || f.substr(0, prev.size()) != prev || f[prev.size()] != '/') {
+                res.push_back(f);
+                prev = f;
             }
-                
         }
-        return v;
+        return res;
     }
 };
