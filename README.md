@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharath-66b6/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sharath-66b6/leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sharath-66b6/leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sharath-66b6/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sharath-66b6/leetcode_solution/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sharath-66b6/leetcode_solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sharath-66b6/leetcode_solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -1008,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
