@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sharath-66b6/leetcode_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1813-maximum-erasure-value](https://github.com/sharath-66b6/leetcode_solution/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sharath-66b6/leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/sharath-66b6/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1813-maximum-erasure-value](https://github.com/sharath-66b6/leetcode_solution/tree/master/1813-maximum-erasure-value) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sharath-66b6/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sharath-66b6/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/sharath-66b6/leetcode_solution/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/sharath-66b6/leetcode_solution/tree/master/1813-maximum-erasure-value) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/sharath-66b6/leetcode_solution/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sharath-66b6/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
