@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sharath-66b6/leetcode_solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Trie
 |  |
 | ------- |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sharath-66b6/leetcode_solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Graph
 |  |
 | ------- |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sharath-66b6/leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sharath-66b6/leetcode_solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sharath-66b6/leetcode_solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
