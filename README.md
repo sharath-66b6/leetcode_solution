@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/sharath-66b6/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sharath-66b6/leetcode_solution/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/sharath-66b6/leetcode_solution/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sharath-66b6/leetcode_solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sharath-66b6/leetcode_solution/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/sharath-66b6/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/sharath-66b6/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sharath-66b6/leetcode_solution/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sharath-66b6/leetcode_solution/tree/master/0198-house-robber) |
