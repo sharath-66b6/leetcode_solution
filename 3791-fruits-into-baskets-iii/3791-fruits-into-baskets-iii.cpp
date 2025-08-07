@@ -1,73 +1,68 @@
 class SegmentTree {
- public:
-  explicit SegmentTree(const vector<int>& nums) : n(nums.size()), tree(n * 4) {
-    build(nums, 0, 0, n - 1);
-  }
-
-  void update(int i, int val) {
-    update(0, 0, n - 1, i, val);
-  }
-
-  int queryFirst(int target) {
-    return queryFirst(0, 0, n - 1, target);
-  }
-
- private:
-  const int n;
-  vector<int> tree;
-  void build(const vector<int>& nums, int treeIndex, int lo, int hi) {
-    if (lo == hi) {
-      tree[treeIndex] = nums[lo];
-      return;
+public:
+    SegmentTree(vector<int>& nums) : n(nums.size()), tree(n * 4) {
+        build(0, 0, n - 1, nums);
     }
-    const int mid = (lo + hi) / 2;
-    build(nums, 2 * treeIndex + 1, lo, mid);
-    build(nums, 2 * treeIndex + 2, mid + 1, hi);
-    tree[treeIndex] = merge(tree[2 * treeIndex + 1], tree[2 * treeIndex + 2]);
-  }
 
-  void update(int treeIndex, int lo, int hi, int i, int val) {
-    if (lo == hi) {
-      tree[treeIndex] = val;
-      return;
+    void update(int i, int val) { update(i, val, 0, 0, n - 1); }
+
+    int queryFirst(int t) { return query(t, 0, 0, n - 1); }
+
+private:
+    int n;
+    vector<int> tree;
+    void build(int ind, int start, int end, vector<int>& nums) {
+        if (start == end) {
+            tree[ind] = nums[start];
+            return;
+        }
+
+        int mid = (start + end) / 2;
+        build(2 * ind + 1, start, mid, nums);
+        build(2 * ind + 2, mid + 1, end, nums);
+        tree[ind] = max(tree[2 * ind + 1], tree[2 * ind + 2]);
     }
-    const int mid = (lo + hi) / 2;
-    if (i <= mid)
-      update(2 * treeIndex + 1, lo, mid, i, val);
-    else
-      update(2 * treeIndex + 2, mid + 1, hi, i, val);
-    tree[treeIndex] = merge(tree[2 * treeIndex + 1], tree[2 * treeIndex + 2]);
-  }
 
-  int queryFirst(int treeIndex, int lo, int hi, int target) {
-    if (tree[treeIndex] < target)
-      return -1;
-    if (lo == hi) {
-      update(lo, -1);
-      return lo;
+    void update(int tind, int val, int ind, int start, int end) {
+        if (start == end) {
+            tree[ind] = val;
+            return;
+        }
+
+        int mid = (start + end) / 2;
+        if (tind <= mid)
+            update(tind, val, 2 * ind + 1, start, mid);
+        else
+            update(tind, val, 2 * ind + 2, mid + 1, end);
+
+        tree[ind] = max(tree[2 * ind + 1], tree[2 * ind + 2]);
     }
-    const int mid = (lo + hi) / 2;
-    const int leftChild = tree[2 * treeIndex + 1];
-    return leftChild >= target
-               ? queryFirst(2 * treeIndex + 1, lo, mid, target)
-               : queryFirst(2 * treeIndex + 2, mid + 1, hi, target);
-  }
 
-  int merge(int left, int right) const {
-    return max(left, right);
-  }
+    int query(int t, int ind, int start, int end) {
+        if (tree[ind] < t)
+            return -1;
+        if (start == end) {
+            update(start, -1);
+            return start;
+        }
+
+        int mid = (start + end) / 2;
+        int leftchild = tree[2 * ind + 1];
+        return leftchild >= t ? query(t, 2 * ind + 1, start, mid)
+                              : query(t, 2 * ind + 2, mid + 1, end);
+    }
 };
 
 class Solution {
- public:
-  int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
-    int ans = 0;
-    SegmentTree tree(baskets);
+public:
+    int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
+        int ans = 0;
+        SegmentTree tree(baskets);
 
-    for (const int fruit : fruits)
-      if (tree.queryFirst(fruit) == -1)
-        ++ans;
+        for (const int fruit : fruits)
+            if (tree.queryFirst(fruit) == -1)
+                ++ans;
 
-    return ans;
-  }
+        return ans;
+    }
 };
