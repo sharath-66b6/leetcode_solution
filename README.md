@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/sharath-66b6/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sharath-66b6/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sharath-66b6/leetcode_solution/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sharath-66b6/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sharath-66b6/leetcode_solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/sharath-66b6/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/sharath-66b6/leetcode_solution/tree/master/0768-partition-labels) |
