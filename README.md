@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/sharath-66b6/leetcode_solution/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/sharath-66b6/leetcode_solution/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sharath-66b6/leetcode_solution/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
