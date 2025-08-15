@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sharath-66b6/leetcode_solution/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sharath-66b6/leetcode_solution/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/sharath-66b6/leetcode_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sharath-66b6/leetcode_solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sharath-66b6/leetcode_solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sharath-66b6/leetcode_solution/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/sharath-66b6/leetcode_solution/tree/master/0368-largest-divisible-subset) |
 | [0728-self-dividing-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/sharath-66b6/leetcode_solution/tree/master/0797-rabbits-in-forest) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/sharath-66b6/leetcode_solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sharath-66b6/leetcode_solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sharath-66b6/leetcode_solution/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search Tree
