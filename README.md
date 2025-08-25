@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/sharath-66b6/leetcode_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/sharath-66b6/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/sharath-66b6/leetcode_solution/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0679-24-game) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sharath-66b6/leetcode_solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/sharath-66b6/leetcode_solution/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/sharath-66b6/leetcode_solution/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/sharath-66b6/leetcode_solution/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/sharath-66b6/leetcode_solution/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sharath-66b6/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
