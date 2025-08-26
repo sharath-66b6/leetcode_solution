@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sharath-66b6/leetcode_solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sharath-66b6/leetcode_solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sharath-66b6/leetcode_solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-most-frequent-prime](https://github.com/sharath-66b6/leetcode_solution/tree/master/3314-most-frequent-prime) |
