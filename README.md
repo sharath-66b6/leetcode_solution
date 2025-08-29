@@ -949,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3199-distribute-candies-among-children-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3314-most-frequent-prime](https://github.com/sharath-66b6/leetcode_solution/tree/master/3314-most-frequent-prime) |
 | [3548-find-the-count-of-good-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
