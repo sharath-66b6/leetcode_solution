@@ -1,29 +1,23 @@
 class Solution {
-public:
-    void solveSudoku(vector<vector<char>>& board) { solve(board, 0); }
-
 private:
-    bool solve(vector<vector<char>>& board, int s) {
+    bool solve(vector<vector<char>>& b, int s) {
         if (s == 81)
             return true;
 
-        const int i = s / 9;
-        const int j = s % 9;
-
-        if (board[i][j] != '.')
-            return solve(board, s + 1);
-
-        for (char c = '1'; c <= '9'; ++c)
-            if (isValid(board, i, j, c)) {
-                board[i][j] = c;
-                if (solve(board, s + 1))
+        int i = s / 9;
+        int j = s % 9;
+        if(b[i][j] != '.') return solve(b,s+1);
+        for (char num = '1'; num <= '9'; num++) {
+            if (isValid(b, i, j, num)) {
+                b[i][j] = num;
+                if (solve(b, s + 1)) {
                     return true;
-                board[i][j] = '.';
+                }
+                b[i][j] = '.';
             }
-
+        }
         return false;
     }
-
     bool isValid(vector<vector<char>>& board, int row, int col, char c) {
         for (int i = 0; i < 9; ++i)
             if (board[i][col] == c || board[row][i] == c ||
@@ -31,4 +25,7 @@ private:
                 return false;
         return true;
     }
+
+public:
+    void solveSudoku(vector<vector<char>>& board) { solve(board, 0); }
 };
