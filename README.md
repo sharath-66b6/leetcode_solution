@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharath-66b6/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sharath-66b6/leetcode_solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sharath-66b6/leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sharath-66b6/leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0076-minimum-window-substring) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sharath-66b6/leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/sharath-66b6/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sharath-66b6/leetcode_solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sharath-66b6/leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/sharath-66b6/leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0045-jump-game-ii) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sharath-66b6/leetcode_solution/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sharath-66b6/leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sharath-66b6/leetcode_solution/tree/master/0417-pacific-atlantic-water-flow) |
