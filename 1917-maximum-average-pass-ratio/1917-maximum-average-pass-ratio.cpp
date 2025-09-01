@@ -1,35 +1,39 @@
 class Solution {
+    struct Compare {
+        bool operator()(const tuple<double,int,int> &t1,
+                        const tuple<double,int,int> &t2) const {
+            return get<0>(t1) < get<0>(t2);
+        }
+    };
+    
+    double gain(int a, int b) {
+        return (double)(a+1)/(b+1) - (double)a/b;
+    }
+    
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        auto improvement = [](int pass, int total) -> double {
-            return (double)(pass + 1) / (total + 1) - (double)pass / total;
-        };
+        priority_queue<
+            tuple<double,int,int>,
+            vector<tuple<double,int,int>>,
+            Compare
+        > pq;
 
-        priority_queue<pair<double, pair<int, int>>> pq;
-
-        for (auto& c : classes) {
-            double imp = improvement(c[0], c[1]);
-            pq.push({imp, {c[0], c[1]}});
+        for (auto &v : classes) {
+            pq.push({gain(v[0], v[1]), v[0], v[1]});
         }
 
         while (extraStudents--) {
-            auto top = pq.top();
+            auto [g, a, b] = pq.top();
             pq.pop();
-            int pass = top.second.first, total = top.second.second;
-            pass++;
-            total++;
-            double newImp = improvement(pass, total);
-            pq.push({newImp, {pass, total}});
+            a++; b++;
+            pq.push({gain(a, b), a, b});
         }
 
-        double totalAvg = 0;
+        double ans = 0;
         while (!pq.empty()) {
-            auto top = pq.top();
-            pq.pop();
-            int pass = top.second.first, total = top.second.second;
-            totalAvg += (double)pass / total;
+            auto [g, a, b] = pq.top(); pq.pop();
+            ans += (double)a/b;
         }
-
-        return totalAvg / classes.size();
+        return ans / classes.size();
     }
 };
