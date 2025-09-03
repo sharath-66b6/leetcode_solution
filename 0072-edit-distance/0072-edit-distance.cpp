@@ -1,28 +1,32 @@
 class Solution {
+private:
+    vector<vector<int>> dp;
+    int solve(int i,int j, string a, string b){
+        if(j == b.size()){
+            return (a.size()-i-1);
+        }
+        if(i == a.size()) return (b.size()-j-1);
+
+        if(dp[i][j] != -1) return dp[i][j];
+        
+        if(a[i] == b[j]) return dp[i][j] = 0 + solve(i+1,j+1,a,b);
+
+        //insert
+        int in = solve(i,j+1, a, b);
+
+        //delete
+        int del = solve(i+1,j,a,b);
+
+        //replace
+        int rep = solve(i+1,j+1, a, b);
+
+        return dp[i][j] = 1 + min({in, del, rep}); 
+
+    }
 public:
     int minDistance(string word1, string word2) {
         int n = word1.size(), m = word2.size();
-        // if(n == 0 || m == 0)
-        //     return max(n,m);
-        // else if(word1 == word2)
-        //     return 0;
-
-        vector<vector<int>> dp(n+1, vector<int> (m+1));
-
-        for(int i=0;i<=n;i++)
-            dp[i][0] = i;
-        for(int j=0;j<=m;j++)
-            dp[0][j] = j;
-
-        for(int i=1;i<=n;++i){
-            for(int j=1;j<=m;j++){
-                if(word1[i-1] == word2[j-1])
-                    dp[i][j] = dp[i-1][j-1];
-                else
-                    dp[i][j] = min({ dp[i-1][j], dp[i-1][j-1], dp[i][j-1]}) + 1;
-            }
-        }
-
-        return dp[n][m];
+        dp.assign(n, vector<int> (m,-1));
+        return 1 + solve(0,0, word1, word2);
     }
 };
