@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2529-range-product-queries-of-powers](https://github.com/sharath-66b6/leetcode_solution/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sharath-66b6/leetcode_solution/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sharath-66b6/leetcode_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1217,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2889-number-of-black-blocks](https://github.com/sharath-66b6/leetcode_solution/tree/master/2889-number-of-black-blocks) |
 | [2998-count-symmetric-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3199-distribute-candies-among-children-i) |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sharath-66b6/leetcode_solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Probability and Statistics
 |  |
 | ------- |
