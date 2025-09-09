@@ -1,46 +1,43 @@
 class Solution {
 public:
-    int orangesRotting(vector<vector<int>>& g) {
-        const int d[4][2] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-        int r = g.size();
-        int c = g[0].size();
-
-        auto hasRot = [&](int x, int y) {
-            for (const auto& dir : d) {
-                int nx = x + dir[0];
-                int ny = y + dir[1];
-                if (nx >= 0 && nx < r && ny >= 0 && ny < c && g[nx][ny] == 2)
-                    return true;
+    vector<pair<int,int>> dir = {
+        {0,1},{1,0},{0,-1},{-1,0}
+    };
+    int orangesRotting(vector<vector<int>>& grid) {
+        queue<pair<int, int>> q;
+        int r = grid.size(), c = grid[0].size();
+        for(int i=0;i<grid.size();i++){
+            for(int j=0;j<grid[0].size();j++){
+                if(grid[i][j] == 2) 
+                    q.push({i,j});
             }
-            return false;
-        };
+        }
+        int ans = -1;
+        while(!q.empty()){
+            int n = q.size();
+            while(n--){
+                auto [i,j] = q.front();
+                q.pop();
 
-        int t = 0;
-
-        while (true) {
-            vector<vector<int>> u = g;
-            bool ch = false;
-
-            for (int i = 0; i < r; ++i) {
-                for (int j = 0; j < c; ++j) {
-                    if (g[i][j] == 1 && hasRot(i, j)) {
-                        u[i][j] = 2;
-                        ch = true;
+                for(auto [x,y]:dir){
+                    int dx = i+x;
+                    int dy = j+y;
+                    if(dx>=0 && dy>=0 && dx<r && dy<c)
+                    if(grid[dx][dy] == 1){
+                        grid[dx][dy] = 2;
+                        q.push({dx,dy});
                     }
                 }
             }
-
-            if (!ch) break;
-            g = u;
-            ++t;
+            ans++;
         }
-
-        for (const auto& row : g) {
-            if (find(row.begin(), row.end(), 1) != row.end()) {
-                return -1;
+        for(int i=0;i<grid.size();i++){
+            for(int j=0;j<grid[0].size();j++){
+                if(grid[i][j] == 1) 
+                    return -1;
             }
         }
 
-        return t;
+        return ans==-1 ? 0:ans;
     }
 };
