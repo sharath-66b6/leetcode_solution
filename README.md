@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sharath-66b6/leetcode_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/sharath-66b6/leetcode_solution/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/sharath-66b6/leetcode_solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1813-maximum-erasure-value](https://github.com/sharath-66b6/leetcode_solution/tree/master/1813-maximum-erasure-value) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/sharath-66b6/leetcode_solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sharath-66b6/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/sharath-66b6/leetcode_solution/tree/master/1876-map-of-highest-peak) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/sharath-66b6/leetcode_solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sharath-66b6/leetcode_solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
