@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/sharath-66b6/leetcode_solution/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sharath-66b6/leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3617-find-the-original-typed-string-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sharath-66b6/leetcode_solution/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3314-most-frequent-prime](https://github.com/sharath-66b6/leetcode_solution/tree/master/3314-most-frequent-prime) |
+| [3462-vowels-game-in-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/sharath-66b6/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sharath-66b6/leetcode_solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -1268,4 +1271,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
