@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sharath-66b6/leetcode_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sharath-66b6/leetcode_solution/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sharath-66b6/leetcode_solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sharath-66b6/leetcode_solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3732-calculate-score-after-performing-instructions](https://github.com/sharath-66b6/leetcode_solution/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sharath-66b6/leetcode_solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sharath-66b6/leetcode_solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/sharath-66b6/leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sharath-66b6/leetcode_solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sharath-66b6/leetcode_solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
