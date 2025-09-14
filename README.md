@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/sharath-66b6/leetcode_solution/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sharath-66b6/leetcode_solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/sharath-66b6/leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0868-push-dominoes) |
 | [0886-score-of-parentheses](https://github.com/sharath-66b6/leetcode_solution/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/sharath-66b6/leetcode_solution/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/sharath-66b6/leetcode_solution/tree/master/1160-letter-tile-possibilities) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/sharath-66b6/leetcode_solution/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/sharath-66b6/leetcode_solution/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/sharath-66b6/leetcode_solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/sharath-66b6/leetcode_solution/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/sharath-66b6/leetcode_solution/tree/master/1063-best-sightseeing-pair) |
