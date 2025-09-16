@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sharath-66b6/leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sharath-66b6/leetcode_solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/sharath-66b6/leetcode_solution/tree/master/1585-the-kth-factor-of-n) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sharath-66b6/leetcode_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2716-prime-subtraction-operation) |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sharath-66b6/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sharath-66b6/leetcode_solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
