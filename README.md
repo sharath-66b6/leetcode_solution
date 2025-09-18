@@ -1230,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/sharath-66b6/leetcode_solution/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/sharath-66b6/leetcode_solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/sharath-66b6/leetcode_solution/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
