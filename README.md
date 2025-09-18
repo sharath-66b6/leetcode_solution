@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sharath-66b6/leetcode_solution/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0354-russian-doll-envelopes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/sharath-66b6/leetcode_solution/tree/master/0368-largest-divisible-subset) |
@@ -1022,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sharath-66b6/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/sharath-66b6/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sharath-66b6/leetcode_solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/sharath-66b6/leetcode_solution/tree/master/0455-assign-cookies) |
@@ -1226,11 +1228,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sharath-66b6/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sharath-66b6/leetcode_solution/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/sharath-66b6/leetcode_solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sharath-66b6/leetcode_solution/tree/master/0148-sort-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sharath-66b6/leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2280-count-good-triplets-in-an-array) |
 ## Doubly-Linked List
@@ -1280,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sharath-66b6/leetcode_solution/tree/master/0148-sort-list) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2280-count-good-triplets-in-an-array) |
 ## Brainteaser
 |  |
