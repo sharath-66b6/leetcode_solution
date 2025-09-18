@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sharath-66b6/leetcode_solution/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/sharath-66b6/leetcode_solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sharath-66b6/leetcode_solution/tree/master/0207-course-schedule) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sharath-66b6/leetcode_solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sharath-66b6/leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sharath-66b6/leetcode_solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sharath-66b6/leetcode_solution/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/sharath-66b6/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sharath-66b6/leetcode_solution/tree/master/0139-word-break) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/sharath-66b6/leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sharath-66b6/leetcode_solution/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sharath-66b6/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0679-24-game) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sharath-66b6/leetcode_solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sharath-66b6/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sharath-66b6/leetcode_solution/tree/master/0135-candy) |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/sharath-66b6/leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sharath-66b6/leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sharath-66b6/leetcode_solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sharath-66b6/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sharath-66b6/leetcode_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/sharath-66b6/leetcode_solution/tree/master/0498-diagonal-traverse) |
