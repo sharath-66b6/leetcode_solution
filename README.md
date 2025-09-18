@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/sharath-66b6/leetcode_solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sharath-66b6/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sharath-66b6/leetcode_solution/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/sharath-66b6/leetcode_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sharath-66b6/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/sharath-66b6/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/sharath-66b6/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/sharath-66b6/leetcode_solution/tree/master/0768-partition-labels) |
@@ -1224,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sharath-66b6/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sharath-66b6/leetcode_solution/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sharath-66b6/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
