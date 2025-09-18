@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sharath-66b6/leetcode_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/sharath-66b6/leetcode_solution/tree/master/3678-design-task-manager) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sharath-66b6/leetcode_solution/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sharath-66b6/leetcode_solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sharath-66b6/leetcode_solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sharath-66b6/leetcode_solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3678-design-task-manager](https://github.com/sharath-66b6/leetcode_solution/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/sharath-66b6/leetcode_solution/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3791-fruits-into-baskets-iii) |
 ## Shortest Path
@@ -1202,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/sharath-66b6/leetcode_solution/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/sharath-66b6/leetcode_solution/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
