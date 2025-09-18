@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/sharath-66b6/leetcode_solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/sharath-66b6/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0679-24-game) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sharath-66b6/leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sharath-66b6/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sharath-66b6/leetcode_solution/tree/master/0135-candy) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharath-66b6/leetcode_solution/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/sharath-66b6/leetcode_solution/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sharath-66b6/leetcode_solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sharath-66b6/leetcode_solution/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/0934-bitwise-ors-of-subarrays) |
