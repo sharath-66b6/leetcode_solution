@@ -27,13 +27,12 @@ public:
     bool exist(vector<vector<char>>& board, string word) {
         int n = board.size(), m = board[0].size();
 
-        // Early pruning: check if board has enough characters
-        unordered_map<char,int> freqBoard, freqWord;
-        for (auto &row : board)
-            for (auto &c : row) freqBoard[c]++;
-        for (auto &c : word) freqWord[c]++;
-        for (auto &p : freqWord)
-            if (freqBoard[p.first] < p.second) return false;
+        // unordered_map<char,int> freqBoard, freqWord;
+        // for (auto &row : board)
+        //     for (auto &c : row) freqBoard[c]++;
+        // for (auto &c : word) freqWord[c]++;
+        // for (auto &p : freqWord)
+        //     if (freqBoard[p.first] < p.second) return false;
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
