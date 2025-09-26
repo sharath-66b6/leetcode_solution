@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/sharath-66b6/leetcode_solution/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/sharath-66b6/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/sharath-66b6/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1257-rank-transform-of-a-matrix](https://github.com/sharath-66b6/leetcode_solution/tree/master/1257-rank-transform-of-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharath-66b6/leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/sharath-66b6/leetcode_solution/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/sharath-66b6/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0354-russian-doll-envelopes) |
+| [0611-valid-triangle-number](https://github.com/sharath-66b6/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sharath-66b6/leetcode_solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/sharath-66b6/leetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sharath-66b6/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/sharath-66b6/leetcode_solution/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sharath-66b6/leetcode_solution/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/sharath-66b6/leetcode_solution/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/sharath-66b6/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/sharath-66b6/leetcode_solution/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/sharath-66b6/leetcode_solution/tree/master/0797-rabbits-in-forest) |
@@ -1056,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/sharath-66b6/leetcode_solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/sharath-66b6/leetcode_solution/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/sharath-66b6/leetcode_solution/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/sharath-66b6/leetcode_solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/sharath-66b6/leetcode_solution/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sharath-66b6/leetcode_solution/tree/master/1468-check-if-n-and-its-double-exist) |
