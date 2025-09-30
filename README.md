@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sharath-66b6/leetcode_solution/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sharath-66b6/leetcode_solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2048-build-array-from-permutation](https://github.com/sharath-66b6/leetcode_solution/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sharath-66b6/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sharath-66b6/leetcode_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/sharath-66b6/leetcode_solution/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
@@ -1308,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/sharath-66b6/leetcode_solution/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sharath-66b6/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sharath-66b6/leetcode_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3199-distribute-candies-among-children-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sharath-66b6/leetcode_solution/tree/master/3201-distribute-candies-among-children-ii) |
