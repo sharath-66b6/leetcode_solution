@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sharath-66b6/leetcode_solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sharath-66b6/leetcode_solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sharath-66b6/leetcode_solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sharath-66b6/leetcode_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sharath-66b6/leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/sharath-66b6/leetcode_solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sharath-66b6/leetcode_solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sharath-66b6/leetcode_solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sharath-66b6/leetcode_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sharath-66b6/leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/sharath-66b6/leetcode_solution/tree/master/1755-defuse-the-bomb) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sharath-66b6/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sharath-66b6/leetcode_solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sharath-66b6/leetcode_solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sharath-66b6/leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sharath-66b6/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/sharath-66b6/leetcode_solution/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sharath-66b6/leetcode_solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sharath-66b6/leetcode_solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sharath-66b6/leetcode_solution/tree/master/1834-minimum-number-of-people-to-teach) |
