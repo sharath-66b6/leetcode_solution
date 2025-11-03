@@ -993,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/sharath-66b6/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/sharath-66b6/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sharath-66b6/leetcode_solution/tree/master/0062-unique-paths) |
