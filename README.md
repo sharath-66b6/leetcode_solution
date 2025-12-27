@@ -1427,4 +1427,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/sharath-66b6/leetcode_solution/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
