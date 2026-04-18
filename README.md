@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sharath-66b6/leetcode_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1813-maximum-erasure-value](https://github.com/sharath-66b6/leetcode_solution/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sharath-66b6/leetcode_solution/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sharath-66b6/leetcode_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sharath-66b6/leetcode_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sharath-66b6/leetcode_solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sharath-66b6/leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sharath-66b6/leetcode_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/sharath-66b6/leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sharath-66b6/leetcode_solution/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sharath-66b6/leetcode_solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sharath-66b6/leetcode_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sharath-66b6/leetcode_solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sharath-66b6/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
